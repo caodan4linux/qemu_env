@@ -1,0 +1,7 @@
+*.o
+*.elf
+
+qemu-2.8.0.tar.xz
+qemu-2.8.0
+
+linux/rootfs.ext3
